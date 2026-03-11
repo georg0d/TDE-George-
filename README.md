@@ -43,3 +43,72 @@ R: True
 
 Pergunta 5: What is the command used to create a new repository?
 R: Git init
+
+📍-04-📍
+
+Pergunta 1: How do you add and checkout a branch in Git?
+R: git checkout -b <name>
+
+Pergunta 2: True or False: Merging branches weaves all the commits together into one timeline.
+R: False
+
+Pergunta 3: What is a branch?
+R: A chain of commits that does interfere with other brahches
+
+Pergunta 4: True or False: You can have multiple HEAD pointers when having more than 1 branch.
+R: False
+
+Pergunta 5: Pick one answer that is not a benifit of using branches.
+R: Increase the complexity of your project
+
+📍-05-📍
+
+Pergunta 1: True or False: Forking is the same thing as pulling.
+R: False
+
+Pergunta 2: What is forking?
+R: Cloning a GifHub repository into your own GitHub repositories.
+
+Pergunta 3: What is the main feature of GitHub?
+R: Git`s main goal is to allow people to work together on projects
+
+Pergunta 4: What is GitHub?
+R: A Git hosting platform
+
+Pergunta 5: True or False: GitHub repositories can be private.
+R: True
+
+📍-06-📍
+
+Pergunta 1: What is the command used to add a remote origin?
+R: git remote add origin <url>
+
+Pergunta 2: True or False: git remote -v shows you all of your remote origins.
+R: True
+
+Pergunta 3: What is a remote origin?
+R: The link to your remote repository
+
+Pergunta 4: How many branches can you push at a time to a remote repository?
+R: 1
+
+Pergunta 5: How do you interact with a GitHub repository?
+R: Through a Push/Pull Cycle 
+
+📍-07-📍
+Pergunta 1: True or False: You need an account to use SourceTree.
+R: True
+
+Pergunta 2: What type of software is SourceTree?
+R: GUI
+
+Pergunta 3: Pick one answer that is not a benefit of using SourceTree.
+R: Batter Performance
+
+Pergunta 4: True or False: It is very difficult to add remote origins through SourceTree. 
+R: True
+
+Pergunta 5: What does 'Git-flow' do?
+R: Sets up a template for you to use in you repo
+
+📍-08-📍
