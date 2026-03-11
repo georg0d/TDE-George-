@@ -110,5 +110,3 @@ R: True
 
 Pergunta 5: What does 'Git-flow' do?
 R: Sets up a template for you to use in you repo
-
-📍-08-📍
